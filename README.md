@@ -45,7 +45,7 @@ This project was developed as a test task for Eliftech. It utilizes the followin
 
 If there were no constraints on using any database or Node.js, I would have implemented this as a serverless application using Strapi. Strapi could cover all the functionality required by the task.
 
-Adding items to the **_favorites list_** was implemented through the server and a database for complexity and to create at least one update route. This could have been done more straightforwardly through Local Storage. In general, such functionality requires authentication to create a client and add favorite items to their list.
+Adding items to the **_favorites list_** was implemented through the server and a database for complexity and to create at least one update route. This could have been done more straightforwardly through Local Storage. In general, such functionality requires authentication to create a client and add favorite items to their lavoritesItemsList.
 
 **_MaterialUI_** was used to expedite development, eliminating the need to write custom components.
 Styles were written using the style prop, as they were minimal, making it unnecessary to incorporate Tailwind or extract them into a separate .css file.
