@@ -1,4 +1,3 @@
-import React from 'react';
 import { PageHeader } from './components/PageHeader/PageHeader';
 import { Routes, Route } from 'react-router-dom';
 import { ShopPageWrapper } from './components/ShopPage/ShopPageWrapper';
